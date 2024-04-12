@@ -1,0 +1,277 @@
+[
+    {
+        "region": "Turkey",
+        "region_code": "tur",
+        "region_code_freakflagsprite": "tr"
+    },
+    {
+        "region": "Austria",
+        "region_code": "aut",
+        "region_code_freakflagsprite": "at"
+    },
+    {
+        "region": "Norway",
+        "region_code": "nor",
+        "region_code_freakflagsprite": "no"
+    },
+    {
+        "region": "Guernsey",
+        "region_code": "gue",
+        "region_code_freakflagsprite": "gg"
+    },
+    {
+        "region": "Great Britain",
+        "region_code": "gb",
+        "region_code_freakflagsprite": "gb"
+    },
+    {
+        "region": "Morocco",
+        "region_code": "mor",
+        "region_code_freakflagsprite": "ma"
+    },
+    {
+        "region": "Yugoslavia",
+        "region_code": "yug",
+        "region_code_freakflagsprite": "rs"
+    },
+    {
+        "region": "Hungary",
+        "region_code": "hun",
+        "region_code_freakflagsprite": "hu"
+    },
+    {
+        "region": "China",
+        "region_code": "chn",
+        "region_code_freakflagsprite": "cn"
+    },
+    {
+        "region": "Holland",
+        "region_code": "hol",
+        "region_code_freakflagsprite": "nl"
+    },
+    {
+        "region": "Argentina",
+        "region_code": "arg",
+        "region_code_freakflagsprite": "ar"
+    },
+    {
+        "region": "Italy",
+        "region_code": "ity",
+        "region_code_freakflagsprite": "it"
+    },
+    {
+        "region": "Mauritius",
+        "region_code": "mau",
+        "region_code_freakflagsprite": "mu"
+    },
+    {
+        "region": "USA",
+        "region_code": "usa",
+        "region_code_freakflagsprite": "us"
+    },
+    {
+        "region": "Bulgaria",
+        "region_code": "bul",
+        "region_code_freakflagsprite": "bg"
+    },
+    {
+        "region": "New Zealand",
+        "region_code": "nz",
+        "region_code_freakflagsprite": "nz"
+    },
+    {
+        "region": "Macau",
+        "region_code": "mac",
+        "region_code_freakflagsprite": "mo"
+    },
+    {
+        "region": "Bahrain",
+        "region_code": "bhr",
+        "region_code_freakflagsprite": "bh"
+    },
+    {
+        "region": "Slovenia",
+        "region_code": "svn",
+        "region_code_freakflagsprite": "si"
+    },
+    {
+        "region": "Oman",
+        "region_code": "omn",
+        "region_code_freakflagsprite": "om"
+    },
+    {
+        "region": "Qatar",
+        "region_code": "qa",
+        "region_code_freakflagsprite": "qa"
+    },
+    {
+        "region": "Malaysia",
+        "region_code": "mal",
+        "region_code_freakflagsprite": "my"
+    },
+    {
+        "region": "Saudi Arabia",
+        "region_code": "ksa",
+        "region_code_freakflagsprite": "sa"
+    },
+    {
+        "region": "Uruguay",
+        "region_code": "uru",
+        "region_code_freakflagsprite": "uy"
+    },
+    {
+        "region": "Cyprus",
+        "region_code": "cyp",
+        "region_code_freakflagsprite": "cy"
+    },
+    {
+        "region": "Puerto Rico",
+        "region_code": "pr",
+        "region_code_freakflagsprite": "pr"
+    },
+    {
+        "region": "Poland",
+        "region_code": "pol",
+        "region_code_freakflagsprite": "pl"
+    },
+    {
+        "region": "Panama",
+        "region_code": "pan",
+        "region_code_freakflagsprite": "pa"
+    },
+    {
+        "region": "France",
+        "region_code": "fr",
+        "region_code_freakflagsprite": "fr"
+    },
+    {
+        "region": "Germany",
+        "region_code": "ger",
+        "region_code_freakflagsprite": "de"
+    },
+    {
+        "region": "Ireland",
+        "region_code": "ire",
+        "region_code_freakflagsprite": "ie"
+    },
+    {
+        "region": "Slovakia",
+        "region_code": "slo",
+        "region_code_freakflagsprite": "sk"
+    },
+    {
+        "region": "Singapore",
+        "region_code": "sin",
+        "region_code_freakflagsprite": "sg"
+    },
+    {
+        "region": "Belgium",
+        "region_code": "bel",
+        "region_code_freakflagsprite": "be"
+    },
+    {
+        "region": "Jersey",
+        "region_code": "jer",
+        "region_code_freakflagsprite": "je"
+    },
+    {
+        "region": "Greece",
+        "region_code": "gr",
+        "region_code_freakflagsprite": "gr"
+    },
+    {
+        "region": "Hong Kong",
+        "region_code": "hk",
+        "region_code_freakflagsprite": "hk"
+    },
+    {
+        "region": "Canada",
+        "region_code": "can",
+        "region_code_freakflagsprite": "ca"
+    },
+    {
+        "region": "Chile",
+        "region_code": "chi",
+        "region_code_freakflagsprite": "cl"
+    },
+    {
+        "region": "Denmark",
+        "region_code": "den",
+        "region_code_freakflagsprite": "dk"
+    },
+    {
+        "region": "Peru",
+        "region_code": "per",
+        "region_code_freakflagsprite": "pe"
+    },
+    {
+        "region": "Russia",
+        "region_code": "rus",
+        "region_code_freakflagsprite": "ru"
+    },
+    {
+        "region": "Australia",
+        "region_code": "aus",
+        "region_code_freakflagsprite": "au"
+    },
+    {
+        "region": "South Africa",
+        "region_code": "saf",
+        "region_code_freakflagsprite": "za"
+    },
+    {
+        "region": "India",
+        "region_code": "ind",
+        "region_code_freakflagsprite": "in"
+    },
+    {
+        "region": "Japan",
+        "region_code": "jpn",
+        "region_code_freakflagsprite": "jp"
+    },
+    {
+        "region": "Barbados",
+        "region_code": "bar",
+        "region_code_freakflagsprite": "bb"
+    },
+    {
+        "region": "Spain",
+        "region_code": "spa",
+        "region_code_freakflagsprite": "es"
+    },
+    {
+        "region": "Israel",
+        "region_code": "isr",
+        "region_code_freakflagsprite": "il"
+    },
+    {
+        "region": "Sweden",
+        "region_code": "swe",
+        "region_code_freakflagsprite": "se"
+    },
+    {
+        "region": "Czech Republic",
+        "region_code": "cze",
+        "region_code_freakflagsprite": "cz"
+    },
+    {
+        "region": "Brazil",
+        "region_code": "brz",
+        "region_code_freakflagsprite": "br"
+    },
+    {
+        "region": "Korea",
+        "region_code": "kor",
+        "region_code_freakflagsprite": "kr"
+    },
+    {
+        "region": "United Arab Emirates",
+        "region_code": "uae",
+        "region_code_freakflagsprite": "ae"
+    },
+    {
+        "region": "Switzerland",
+        "region_code": "swi",
+        "region_code_freakflagsprite": "ch"
+    }
+]

@@ -1,0 +1,357 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+    /* racecards starts here  */
+    .special_margin_heading{
+        margin-bottom: 0 !important;
+        width: 100%;
+        text-align: center !important;
+    }
+    .horse_racing_table img{
+        height: 20px !important;
+    }
+
+    .table > thead > tr > td, .table > tbody > tr > td  {
+        padding: 10px 2px !important;
+    }
+    .course_title {
+        font-weight: 600 !important;
+        font-size: 12px !important;
+        line-height: 14px !important;
+    }
+    .horse_racing_table .odds_td, .horse_racing_table .odds_td a {
+        font-size: 12px !important;
+        line-height: 12px !important;
+    }
+    .horse_racing_heading {
+        font-size: 14px !important;
+    }
+    .title_flag .fflag {
+        width: 20px;
+        height: 20px;
+    }
+    .title_flag.fflag {
+        margin-right: 0;
+        display: block;
+        margin: 0 auto;
+    }
+    .courses_tr {
+        width: 100% !important;
+    }
+    .venu_details {
+        text-align: center;
+    }
+    .tab .tab-content {
+        padding: 0 !important;
+    }
+    /* racecards ends here  */
+
+
+    /* single racecard odds starts here  */
+    .nav.nav-tabs.horse_racing_odds_table_nav {
+        display: inline-block !important;
+    }
+    .rotate_th {
+        display: none !important;
+    }
+    .special_horse_racing_table .odds_td, .special_horse_racing_table .odds_td a {
+        display: none !important;
+    }
+    .special_horse_racing_table_gap{
+        display: none !important;
+    }
+    .nav-item.active{
+        border-bottom: 0 !important;
+        color: goldenrod !important;
+    }
+    .nav-item.active a{
+        border-bottom: 0 !important;
+        color: goldenrod !important;
+    }
+    .tab .nav-tabs li.active a,
+    .tab .nav-tabs li.active a:hover {
+        border-bottom: 0 !important;
+        color: goldenrod !important;
+    }
+    .tab .nav-tabs li a:hover{
+        border-bottom: 0 !important;
+        color: goldenrod !important;
+    }
+
+    .tab .nav-tabs li.active a{
+        border-bottom: 0 !important;
+        color: goldenrod !important;
+    }
+    .back_heading{
+        font-size: 18px !important;
+    }
+    .nav.nav-tabs.all_racecards_nav {
+        justify-content: center;
+    }
+    .horse_racing_course_heading {
+        margin: 0 !important;
+    }
+
+    .special_horse_racing_table_tbody {
+        display: inline-block;
+    }
+    .special_horse_racing_table_thead {
+        display: grid !important;
+    }
+    .special_horse_racing_table_thead_tr {
+        margin: 15px 0 !important;
+        display: inline-flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+    }
+    .single_course_flag_th {
+        padding-top: 15px !important;
+    }
+    .silk_serial_td {
+        min-width: inherit !important;
+    }
+    .special_horse_racing_display_none{
+        display: table !important;
+    }
+    .special_horse_racing_display_none_results {
+        text-align: left !important;
+    }
+    .special_horse_racing_display_none_best_odds {
+        text-align: right !important;
+    }
+    .special_table_best_odd{
+        display: table-cell !important;
+    }
+    .jockey_info_td {
+        min-width: 55vw !important;
+    }
+    .odds_td_not_found{
+        display: none !important;
+    }
+    .special_horse_racing_display_none_th {
+        font-size: 12px !important;
+    }
+    .horse_racing_odds_table_nav {
+        padding-left: 7vw !important;
+    }
+    /* single racecard odds ends here  */
+
+
+    /* today race results */
+
+    .today_results_accordion .race_name {
+        display: none !important;
+    }
+    .today_results_accordion .course_off {
+        display: none !important;
+    }
+    .today_results_accordion .course_off_hidden {
+        display: block !important;
+        font-size: 10px !important;
+    }
+    .today_results_accordion .course_title {
+        width: 43vw !important;
+        margin-left: 2px;
+        margin-right: 0 !important;
+    }
+    .today_results_accordion .jockey_info_td {
+        min-width: 40vw !important;
+    }
+    .today_results_accordion .today_results_table_thead_tr {
+        display: table !important;
+    }
+    .today_results_accordion .today_results_th {
+        padding: 0 !important;
+        font-size: 10px !important;
+    }
+    .today_results_accordion .horse_title {
+        font-size: 12px !important;
+        line-height: 12px !important;
+    }
+    .today_results_accordion .jockey_title {
+        font-size: 10px !important;
+        line-height: 10px !important;
+    }
+    .today_results_accordion .today_results_odds_td {
+        font-size: 10px !important;
+        line-height: 10px !important;
+    }
+    .today_results_accordion .silk_image {
+        width: 40px !important;
+    }
+    .today_results_accordion .today_results_title_flag {
+        display: inline-block !important;
+    }
+    .today_results_accordion .special_horse_racing_table {
+        margin-top: 0 !important;
+    }
+    .today_results_accordion .course_off_hidden {
+        margin: 0 !important;
+        margin-top: 10px !important;
+    }
+    .results_by_date_date_calculation {
+        justify-content: center !important;
+        margin-left: -5vw;
+    }
+    .results_by_date_date_calculation .nav > li > a{
+        padding: 10px 10px;
+    }
+
+    /* today race results ends */
+
+
+
+    /* results by date  */
+
+    .results_by_date_accordion{
+        margin-top: 0 !important;
+    }
+    .results_by_date_accordion .special_horse_racing_table {
+        margin-top: 0 !important;
+    }
+    .results_by_date_accordion .course_off_hidden {
+        margin: 0 !important;
+        margin-top: 10px !important;
+    }
+    .results_by_date_date_calculation .tab .nav-tabs li a {
+        font-size: 16px !important;
+    }
+    .results_by_date_date_calculation .nav.nav-tabs.horse_racing_odds_table_nav{
+        display: flex !important;
+        justify-content: center !important;
+    }
+
+    /* results by date ends */
+
+    /* search horse by name  */
+    .search_horse_margin_heading{
+        width: 100%;
+    }
+    .search-horse-page .search button{
+        width: 70px;
+        font-size: 10px;
+        font-weight: bold;
+    }
+    .today_results_th_hide{
+        display: none !important;
+    }
+    .today_results_td_hide{
+        display: none !important;
+    }
+    .time_analysis_back_heading {
+        margin-top: 30px;
+    }
+    .search_horse_by_name_table {
+        margin-left: -5vw !important;
+    }
+    .search_horse_course_name{
+        text-align: center !important;
+        display: block !important;
+    }
+    .search_horse_course_time_hidden{
+        display: block !important;
+    }
+    .search_horse_by_name_table th, .search_horse_by_name_table td{
+        text-align: center !important;
+    }
+    /* search horse by name ends */
+
+
+    
+
+}
+/* Extra small devices (phones, 600px and down) Ends Here */
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 601px) and (max-width: 768px) {
+
+}
+/*Small devices (portrait tablets and large phones, 600px and up) Ends Here */
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 769px) and (max-width: 991px) {
+    /* racecards starts here  */
+    .course_title {
+        font-weight: 600 !important;
+        font-size: 16px !important;
+      }
+      .horse_racing_table .odds_td, .horse_racing_table .odds_td a {
+        font-size: 14px !important;
+        line-height: 14px !important;
+      }
+      .venu_details {
+        width: 240px !important;
+      }
+      .nav.nav-tabs.horse_racing_odds_table_nav {
+        justify-content: start !important;
+      }
+
+      .special_margin_heading {
+        margin-bottom: 0% !important;
+        width: 100%;
+      }
+      
+    /* racecards ends here  */
+
+    /* today results  */
+
+    .today_results_accordion .race_name {
+        display: none !important;
+    }
+    .today_results_accordion .course_off_hidden {
+        display: block !important;
+        font-size: 10px !important;
+    }
+    .results_by_date_accordion{
+        margin-top: 0 !important;
+    }
+    .results_by_date_accordion .special_horse_racing_table {
+        margin-top: 0 !important;
+    }
+    .results_by_date_accordion .course_off_hidden {
+        margin: 0 !important;
+        margin-top: 10px !important;
+    }
+    .results_by_date_date_calculation .tab .nav-tabs li a {
+        font-size: 16px !important;
+    }
+    .today_results_accordion{
+        margin-top: 0 !important;
+    }
+    .today_results_accordion .special_horse_racing_table {
+        margin-top: 0 !important;
+    }
+    .today_results_accordion .course_off_hidden {
+        margin: 0 !important;
+        margin-top: 10px !important;
+    }
+    .results_by_date_date_calculation .tab .nav-tabs li a {
+        font-size: 16px !important;
+    }
+
+    /* today results ends */
+
+
+    /* search horse by name  */
+    .time_analysis_back_heading {
+        margin-top: 50px;
+    }
+    /* search horse by name ends */
+
+}
+/* Medium devices (landscape tablets, 768px and up) Ends Here */
+
+/* Large devices (laptops and small desktops, 992px and up) */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .special_margin_heading {
+        margin-bottom: -8% !important;
+        font-size: 21px !important;
+      }
+}
+/* Medium devices (landscape tablets, 768px and up) Ends Here */
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
+}
+/* Extra large devices (large laptops and desktops, 1200px and up) Ends Here */

@@ -1,0 +1,585 @@
+
+a:hover,
+a:focus {
+    text-decoration: none !important;
+    outline: none !important;
+}
+.tab .nav-tabs {
+    border: none;
+}
+.tab .nav-tabs li a {
+    background: #fff;
+    font-size: 19px;
+    font-weight: 600;
+    text-transform: capitalize;
+    margin: 0;
+    border: none;
+    border-radius: 0;
+    overflow: hidden;
+    position: relative;
+    z-index: 1;
+    transition: all 0.3s ease 0.3s;
+}
+.tab .nav-tabs li.active a,
+.tab .nav-tabs li.active a:hover {
+    color: #133F77;
+    background: #fff;
+    border: none;
+    border-bottom: 4px solid goldenrod;
+    cursor: pointer;
+}
+.tab .nav-tabs li a:hover{
+    border-bottom: 4px solid goldenrod;
+}
+
+.tab .nav-tabs li.active a{
+    border-bottom: 4px solid goldenrod !important;
+}
+
+.nav.nav-tabs.all_racecards_nav {
+    display: flex;
+    justify-content: end;
+}
+.nav.nav-tabs.horse_racing_odds_table_nav {
+    display: flex;
+    justify-content: end;
+}
+.nav-link {
+    color: #133F77 !important;
+}
+.special_margin_heading {
+    margin-bottom: -4% !important;
+    font-size: 30px !important;
+    color: #133F77 !important;
+    font-family: "Roboto", Sans-serif !important;
+    font-weight: 600 !important;
+    padding: 0px 0px 3px 0px !important;
+    line-height: 1;
+    border-style: solid;
+    border-width: 0px 0px 2px 0px;
+    border-color: #E5AB13;
+    width: 50%;
+  }
+.special_margin_heading.special_margin_heading_odds_table_page{
+    margin-bottom: 0 !important;
+}
+.course_title{
+    font-weight: 800 !important;
+    font-size: 15px !important;
+    line-height: 15px !important;
+    text-decoration: none;
+    color: #20242e;
+    font-family: 'Nunito Sans',Trebuchet MS,sans-serif !important;
+    padding-left: 0 !important;
+    float: none;
+    display: inline-block;
+    vertical-align: middle;
+}
+.venu_details{
+    float: none;
+    display: inline-block;
+    padding: 0;
+    width: 250px;
+}
+
+.courses_tr {
+    float: none;
+    display: inline-flex;
+    align-items: center;
+    justify-content: start;
+    border-bottom: 1px solid #eaeae9;
+    min-height: 40px;
+    width: 100%;
+  }
+.courses_tr.last_course_gb_and_ire:last-child{
+    border-bottom: none !important;
+}
+.courses_tr.last_course_international:last-child{
+    border-bottom: none !important;
+}
+.table > tbody > tr > td{
+    vertical-align: middle !important;
+    text-align: center;
+}
+
+.horse_racing_table > tbody > tr > td{
+    text-align: left !important;
+}
+
+.special_horse_racing_table > tbody > tr > td{
+    border:4px solid #fff !important;
+    vertical-align: middle !important;
+    text-align: center !important;
+    padding: 0 !important;
+}
+
+.all_off_times{
+    width: 500px;
+    float: none;
+    display: inline-block;
+    vertical-align: middle;
+}
+.title_flag{
+    padding: 0;
+    float: none;
+    display: inline-block;
+    vertical-align: middle;
+}
+.title_flag.fflag {
+    width: 22px;
+    height: 22px;
+    margin-right: 10px;
+}
+
+
+.special_horse_racing_table .odds_td, .special_horse_racing_table .odds_td a{
+    padding: 0 !important;
+    width: 40px !important;
+    max-width: 40px !important;
+    min-width: 40px;
+    height: 42px !important;
+    max-height: 42px !important;
+    word-wrap: break-word;
+    font-family: 'Nunito Sans',Trebuchet MS,sans-serif !important;
+    font-weight: 600 !important;
+    font-size: 12px !important;
+    line-height: 12px !important;
+}
+
+.horse_racing_table .odds_td, .horse_racing_table .odds_td a{
+    word-wrap: break-word;
+    font-family: 'Nunito Sans',Trebuchet MS,sans-serif !important;
+    font-weight: 400 !important;
+    font-size: 14px !important;
+    line-height: 18px !important;
+    color: #20242e;
+}
+
+.horse_racing_table .odds_td{
+    padding: 0 !important;
+    width: 60px;
+    vertical-align: middle !important;
+    display: inline-block;
+}
+.single_course_flag_th {
+    padding-top: 20px !important;
+}
+.single_course_title{
+    padding-left: 0 !important;
+    padding-bottom: 2px !important;
+}
+.single_course_flag_th {
+    text-align: right !important;
+}
+
+.horse_racing_table .odds_td a{
+    transition: 1s !important;
+}
+.horse_racing_table .odds_td a:hover{
+    border-bottom: 1px solid #4a6085;
+}
+.jockey_info_td{
+    min-width: 230px !important;
+    max-width: 250px !important;
+    width: auto !important;
+}
+.silk_image_td {
+    min-width: 50px !important;
+}
+.special_horse_racing_table tr, .special_horse_racing_table tr th{
+    border: 1px solid #fff !important;
+}
+.rotate_th{
+    padding: 0 !important;
+    border-right: 1px solid #fff !important;
+    padding-bottom: 5px !important;
+    padding-top: 10px !important;
+}
+.horse_racing_course_heading{
+    font-weight: 800 !important;
+    font-size: 18px !important;
+    line-height: 18px !important;
+    color: #1d3666;
+    font-family: 'Nunito Sans',Trebuchet MS,sans-serif !important;
+}
+.silk_serial_td {
+    min-width: 50px !important;
+}
+.rotate_th .rotate_th_a {
+    display: inline-block;
+    width: 78px;
+    height: 21px;
+    overflow: hidden;
+    transform: rotate(-90deg);
+    margin: 24px -20px !important;
+}
+.horse_racing_heading{
+    font-weight: 800 !important;
+    font-size: 16px !important;
+    line-height: 21px !important;
+    color: #20242e;
+    font-family: 'Nunito Sans',Trebuchet MS,sans-serif !important;
+}
+
+  .table-borderless > tbody > tr > td,
+  .table-borderless > tbody > tr > th,
+  .table-borderless > tfoot > tr > td,
+  .table-borderless > tfoot > tr > th,
+  .table-borderless > thead > tr > td,
+  .table-borderless > thead > tr > th,
+  .table-borderless > tbody > tr,
+  .table-borderless > tfoot > tr,
+  .table-borderless > thead > tr{
+    border: none;
+    border-top: none !important;
+  }
+
+.horse_racing_table.table-borderless > tbody > tr{
+    border-bottom: 1px solid #eaeae9;
+}
+
+.horse_title{
+    font-family: 'Nunito Sans',Trebuchet MS,sans-serif !important;
+    font-weight: 400 !important;
+    font-size: 14px !important;
+    line-height: 14px !important;
+}
+.jockey_title{
+    font-family: 'Nunito Sans',Trebuchet MS,sans-serif !important;
+    font-weight: 400 !important;
+    font-size: 11px !important;
+    line-height: 11px !important;
+}
+
+.special_horse_racing_table .danger{
+    background-color: #ffebeb !important;
+}
+.special_horse_racing_table .info{
+    background-color: #e1f4fe !important;
+}
+
+
+.nav-link:focus {
+    outline: none !important;
+    text-decoration: none !important;
+    border: none !important;
+}
+
+.nav-item.active {
+    border-bottom: 4px solid goldenrod;
+}
+
+.tab .tab-content {
+    color: #555;
+    background: #fff;
+    font-size: 16px;
+    letter-spacing: 1px;
+    line-height: 25px;
+    padding: 10px;
+    position: relative;
+}
+
+
+
+
+/* today results starts here  */
+
+.today_results_accordion .course_off {
+    font-weight: 800 !important;
+    font-size: 15px !important;
+    line-height: 15px !important;
+    text-decoration: none;
+    color: #20242e;
+    font-family: 'Nunito Sans',Trebuchet MS,sans-serif !important;
+    padding-left: 0 !important;
+    margin-left: 20px !important;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+/* .today_results_accordion .today_results_accordion_item{
+    padding: 30px 0;
+    border-bottom: 1px solid #eaeae9;
+} */
+.today_results_accordion .special_horse_racing_table {
+    margin-top: 30px;
+}
+.today_results_accordion .accordion-button{
+    position: relative;
+    cursor: pointer;
+    padding: 30px 0;
+    border-bottom: 1px solid #eaeae9;
+    transition: .2s;
+}
+.today_results_accordion .accordion-button:hover{
+    background: #eaeae9;
+}
+.today_results_accordion .accordion-button[aria-expanded="false"]::before {
+    position: absolute;
+    content: '';
+    right: 0;
+    top: 36%;
+    width: 22px;
+    height: 22px;
+    z-index: 9;
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 16 16' fill='%23333' xmlns='http://www.w3.org/2000/svg'%3e%3cpath fill-rule='evenodd' d='M8 0a1 1 0 0 1 1 1v6h6a1 1 0 1 1 0 2H9v6a1 1 0 1 1-2 0V9H1a1 1 0 0 1 0-2h6V1a1 1 0 0 1 1-1z' clip-rule='evenodd'/%3e%3c/svg%3e");
+    transform: scale(.7) !important;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+  .today_results_accordion .accordion-button[aria-expanded="true"]::before {
+    position: absolute;
+    content: '';
+    right: 0;
+    top: 36%;
+    width: 22px;
+    height: 22px;
+    z-index: 9;
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 16 16' fill='%23333' xmlns='http://www.w3.org/2000/svg'%3e%3cpath fill-rule='evenodd' d='M0 8a1 1 0 0 1 1-1h14a1 1 0 1 1 0 2H1a1 1 0 0 1-1-1z' clip-rule='evenodd'/%3e%3c/svg%3e");
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+.today_results_accordion .today_results_odds_td{
+    word-wrap: break-word;
+    font-family: 'Nunito Sans',Trebuchet MS,sans-serif !important;
+    font-weight: 600 !important;
+    font-size: 12px !important;
+    line-height: 12px !important;
+}
+
+.today_results_accordion .course_title{
+    display: inline-block;
+    width: 15vw;
+    font-weight: 800 !important;
+    font-size: 15px !important;
+    line-height: 15px !important;
+    text-decoration: none;
+    color: #20242e;
+    font-family: 'Nunito Sans',Trebuchet MS,sans-serif !important;
+    margin-right: 20px;
+}
+.today_results_accordion .race_name{
+    display: inline-block;
+    vertical-align: middle;
+    width: 30vw;
+    margin-right: 10px;
+}
+/* .results_today_venu_details {
+    display: inline-flex;
+    vertical-align: middle;
+} */
+.today_results_accordion .today_results_th {
+    text-align: center !important;
+}
+.today_results_accordion .results_by_date_date {
+    font-weight: 800 !important;
+    font-size: 15px !important;
+    line-height: 15px !important;
+    text-decoration: none;
+    color: #20242e;
+    font-family: 'Nunito Sans',Trebuchet MS,sans-serif !important;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+
+
+/* today results ends here  */
+
+
+/* results by date  */
+
+.results_by_date_accordion {
+    margin-top: 30px;
+}
+.results_by_date_accordion .results_by_date_date {
+    font-weight: 800 !important;
+    font-size: 15px !important;
+    line-height: 15px !important;
+    text-decoration: none;
+    color: #20242e;
+    font-family: 'Nunito Sans',Trebuchet MS,sans-serif !important;
+    display: inline-block;
+    vertical-align: middle;
+}
+.results_by_date_date_calculation {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: center;
+    height: 50px;
+}
+.results_by_date_single_date {
+    cursor: pointer;
+    margin-right: 15px;
+    font-size: 18px;
+}
+.results_by_date_single_date.today{
+    border-bottom: 4px solid goldenrod;
+}
+.results_by_date_single_date {
+    padding: 5px 0;
+}
+.results_by_date_date_not_found_div{
+    margin-top: 30px;
+}
+.results_by_date_date_calculation .tab .nav-tabs li a {
+    font-size: 12px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.results_by_date_date_calculation .current_date_day {
+    margin: 0 !important;
+}
+
+/* .results_by_date_date_calculation .tab .nav-tabs li.active{
+    margin-top: -20px;
+} */
+.results_by_date_date_calculation .tab .nav-tabs li a .calendar-date{
+    border-radius: 50%;
+    font-size: 14px;
+    font-weight: 700;
+    color: #9d9da3;
+    background-color: #f3f5f5;
+    width: 31px;
+    height: 31px;
+    line-height: 31px;
+    text-align: center;
+}
+.results_by_date_date_calculation .tab .nav-tabs li.active a .calendar-date{
+    background: goldenrod;
+    color: #fff;
+}
+.results_by_date_date_calculation .tab .nav-tabs li a .calendar-day{
+    padding-top: 3px;
+    font-size: 9px;
+    color: #9d9da3;
+    text-align: center;
+}
+.results_by_date_date_calculation .tab .nav-tabs li.active a .calendar-day{
+    color: #20242e;
+    font-size: 12px;
+}
+.results_by_date_date_calculation .nav-item.active {
+    border-bottom: none !important;
+}
+.results_by_date_date_calculation .tab .nav-tabs li.active a {
+    border-bottom: none !important;
+}
+
+.results_by_date_date_calculation .nav-tabs > li {
+    margin-bottom: 0;
+    float: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+/* results by date ends */
+
+
+
+
+
+
+
+
+
+
+
+/* bookmakers logo background  */
+
+.rotate_th.bet365{
+    background-color: #027b5b !important;
+}
+
+.rotate_th.skybet{
+    background-color: #002c91 !important;
+}
+
+.rotate_th.paddypower{
+    background-color: #013b29 !important;
+}
+
+.rotate_th.williamhill{
+    background-color: #00003c !important;
+}
+
+.rotate_th.s888sport{
+    background-color: #fc6200 !important;
+}
+
+.rotate_th.betfair{
+    background-color: #ffb80c !important;
+}
+
+.rotate_th.betvictor{
+    background-color: #61c8ed !important;
+}
+
+.rotate_th.coral{
+    background-color: #004696 !important;
+}
+
+.rotate_th.unibet{
+    background-color: #000000!important;
+}
+
+.rotate_th.spreadex{
+    background-color: #000000!important;
+}
+
+.rotate_th.betfred{
+    background-color: #002a55 !important;
+}
+
+.rotate_th.boylesports{
+    background-color: #001f60 !important;
+}
+
+.rotate_th.a10bet{
+    background-color: #000000 !important;
+}
+
+.rotate_th.starsports{
+    background-color: #072D4F !important;
+}
+
+.rotate_th.betuk{
+    background-color: #203E56 !important;
+}
+
+.rotate_th.sportingindex{
+    background-color: #041E42 !important;
+}
+
+.rotate_th.livescorebet{
+    background-color: #0b0b0b !important;
+}
+
+.rotate_th.quinnbet{
+    background-color: #000000 !important;
+}
+
+.rotate_th.betway{
+    background-color: #000000 !important;
+}
+
+.rotate_th.ladbrokes{
+    background-color: #f01e28 !important;
+}
+
+.rotate_th.parimatch{
+    background-color: #000000 !important;
+}
+
+.rotate_th.vbet{
+    background-color: #d82b8f !important;
+}
+
+
+
+/* bookmakers logo background ends */

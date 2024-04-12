@@ -1,0 +1,65 @@
+.search-horse-page .search{
+    position: relative;
+    box-shadow: 0 0 40px rgba(51, 51, 51, .1);
+}
+.search-horse-page .search input{
+    height: 40px;
+    text-indent: 25px;
+    border: 2px solid #d6d4d4;
+    color: goldenrod !important;
+}
+.search-horse-page .search input:focus{
+    box-shadow: none;
+    border: 2px solid goldenrod;
+}
+.search-horse-page .search .fa-search{
+    position: absolute;
+    top: 14px;
+    left: 16px;
+    color: goldenrod;
+}
+.search-horse-page .search button{
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 40px;
+    width: 110px;
+    background: goldenrod !important;
+    color: white !important;
+    border-color: goldenrod;
+}
+.search-horse-page .api_search_input {
+    width: 100% !important;
+}
+
+.search_horse_by_name_table{
+    margin: 0 auto !important;
+    margin-top: 2% !important;
+}
+
+.search_horse_by_name_table td a{
+    color: inherit;
+    text-decoration: none;
+}
+.search_horse_by_name_table th, .search_horse_by_name_table td{
+    text-align: left !important;
+}
+.horse_time_analysis_table td{
+    border: 1px solid #eee !important;
+}
+.search_horse_margin_heading {
+    margin-bottom: 4% !important;
+    font-size: 30px !important;
+    color: #133F77 !important;
+    font-family: "Roboto", Sans-serif !important;
+    font-weight: 600 !important;
+    padding: 0px 0px 3px 0px !important;
+    line-height: 1;
+    border-style: solid;
+    border-width: 0px 0px 3px 0px;
+    border-color: #E5AB13;
+    width: 50%;
+  }
+.time_analysis_back_heading{
+    margin-top: 100px;
+}
